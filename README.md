@@ -34,7 +34,7 @@ Full descriptions of the operating models can be found in Nehemiah (2024).
 This work was funded by the NOAA Chesapeake Bay Office and the NMFS/Sea Grant Population and Ecosystems Dynamic Fellowship. Collaborators include researchers from the Chesapeake Biological Laboratory, Virginia Institute of Marine Science, and the NMFS Southeast Fisheries Science Cener. 
 
 # Manuscript Citation
-Nehemiah, S., R. Latour, A. Schonfeld, A. Schueller, and M.J. Wilberg. Testing the performance of a spatially-explicit population model for striped bass under different climate change scenarios. In preparation.
+Nehemiah, S., A.M. Schueller, A.J. Schonfeld, R.J. Latour, and M.J. Wilberg. Consequences of misspecified natural mortality, recruitment, and migration on spatial multi-stock assessment models. In preparation.
 
 # Contact
 If you have any questions, please contact Samara (she/her). Current email: snehemiah@asmfc.org. 
